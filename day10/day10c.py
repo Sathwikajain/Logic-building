@@ -5,6 +5,7 @@ print("Before swapping: a =", a, ", b =", b)
 a, b = b, a
 print("After swapping: a =", a, ", b =", b)
 
+
 # output:
 # Enter first number: 20
 # Enter second number: 7
